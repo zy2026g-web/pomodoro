@@ -1,0 +1,7 @@
+# 编译产物
+*.exe
+*.pdb
+
+# 系统文件
+Thumbs.db
+desktop.ini

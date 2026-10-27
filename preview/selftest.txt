@@ -1,0 +1,19 @@
+PASS  format 1500
+PASS  format 0
+PASS  format 59.2
+PASS  format 3661
+PASS  settings roundtrip focus
+PASS  settings roundtrip every
+PASS  settings roundtrip autostart
+PASS  settings roundtrip ontop
+PASS  settings roundtrip date
+PASS  settings clone keeps completion
+PASS  settings clamp focus
+PASS  settings clamp every
+PASS  settings clamp completed
+PASS  ticker counts down
+PASS  clock text follows countdown
+PASS  focus completes -> short break
+PASS  completed count incremented
+PASS  next phase auto-started
+RESULT: PASS
