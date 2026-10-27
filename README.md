@@ -2,6 +2,10 @@
 
 一个 Windows 桌面番茄钟，C# WinForms 单文件实现，无第三方依赖，编译后为单个 exe。
 
+## 下载运行
+
+不想编译？到 [Releases](https://github.com/zy2026g-web/pomodoro/releases/latest) 下载 `Pomodoro.exe`，双击即可运行（Windows 10/11 自带 .NET Framework 4.x）。
+
 ![专注界面](preview/preview-focus.png)
 
 ## 功能
